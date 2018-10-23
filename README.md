@@ -1,6 +1,3 @@
-<<<<<<< bf349faab7dcfb104c86d4cfb5c949c4a0e88193
-# lab1-howhowcan
-=======
 # Packet Manipulation
 
 This repository is lab for NCTU course "Introduction to Computer Networks 2018".
