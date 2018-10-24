@@ -24,7 +24,7 @@ def main():
     # Define customized header (Task 3.)
     my_id = '0612213'
     my_dept = 'Applied mathematics'
-    my_gender = 'male'
+    my_gender = '1'
     student = Protocol(id = my_id, dept = my_dept, gender = my_gender)
 
     # Read file and store into list
